@@ -11,7 +11,7 @@
 
 ## 📬 How to Reach Me
 - 📧 **Email:** _[siddharthkumar4485@gmail.com]_  
-- 💼 **LinkedIn:** _[Your LinkedIn link here]_  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/siddharthkumar26/
 
 ## ⚡ Fun Fact
 I believe **impossible** is just a word until you prove it wrong!  
