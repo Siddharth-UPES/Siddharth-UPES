@@ -10,7 +10,7 @@
 - 🤝 Open to collaborating on **exciting and impactful tech projects**.  
 
 ## 📬 How to Reach Me
-- 📧 **Email:** _[Your email here]_  
+- 📧 **Email:** _[siddharthkumar4485@gmail.com]_  
 - 💼 **LinkedIn:** _[Your LinkedIn link here]_  
 
 ## ⚡ Fun Fact
