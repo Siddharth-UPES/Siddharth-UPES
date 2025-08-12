@@ -10,7 +10,7 @@
 - 🤝 Open to collaborating on **exciting and impactful tech projects**.  
 
 ## 📬 How to Reach Me
-- 📧 **Email:** siddharthkumar4485@gmail.com  
+- 📧 **Email:** siddharth.16229@stu.upes.ac.in  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/siddharthkumar26/
 
 ## ⚡ Fun Fact
