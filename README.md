@@ -10,7 +10,6 @@
 - 🤝 Open to collaborating on **exciting and impactful tech projects**.  
 
 ## 📬 How to Reach Me
-- 📧 **Email:** [Email Me](mailto:sidchaudhary2508@gmail.com)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/siddharthkumar26/
 
 ## ⚡ Fun Fact
