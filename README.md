@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Siddharth
+# 👋 Hey I'm Siddharth
 
 ## 🚀 About Me
 - 🔥 I’m passionate about **extreme and challenging things** that push limits.  
