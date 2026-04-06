@@ -94,7 +94,17 @@
 
 
 
+<div align="center">
 
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" />
+
+<h1>Hey 👋, I'm Siddharth Kumar</h1>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;AI%2FML+Learner;Problem+Solver;Always+Building+Something+New" />
+</p>
+
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
@@ -120,7 +130,7 @@
 
 ## 🚀 What I'm Doing
 
-- 💻 Building **Full Stack Applications (Java + Node.js)**
+- 💻 Building **Full Stack Applications (Java )**
 - 📊 Learning **Machine Learning & Deep Learning**
 - 🧠 Improving **DSA & Core CS Concepts**
 - 🤝 Open to **collaborations & internships**
@@ -143,7 +153,14 @@
 ### 🤖 AI / ML  
 <img src="https://skillicons.dev/icons?i=python" />
 <br/>
-`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`
+### 🤖 AI / ML  
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
 ### ⚙️ Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
@@ -156,9 +173,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siddharth-UPES&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Siddharth-UPES&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=Siddharth-UPES&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Siddharth-UPES&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%" />
 
 </div>
 
