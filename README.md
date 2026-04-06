@@ -67,6 +67,25 @@
 
 </div>
 
+
+---
+---
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Siddharth-UPES&theme=tokyonight&hide_border=true&mode=weekly" width="50%" />
+
+</div>
+---
+---
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth-UPES&theme=tokyo-night&hide_border=true" />
+
+</div>
 ---
 
 ## 🌐 Connect With Me
