@@ -164,16 +164,6 @@
 
 ---
 
-## 📈 Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-UPES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
