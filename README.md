@@ -143,8 +143,6 @@
 ### 🤖 AI / ML  
 <img src="https://skillicons.dev/icons?i=python" />
 <br/>
-### 🤖 AI / ML  
-
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -162,8 +160,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Siddharth-UPES&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=Siddharth-UPES&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%" />
 
