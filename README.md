@@ -156,9 +156,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siddharth-UPES&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Siddharth-UPES&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Siddharth-UPES&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Siddharth-UPES&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -168,7 +168,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-UPES&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-UPES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
