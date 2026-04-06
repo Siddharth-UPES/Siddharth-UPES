@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
 </div>
 
@@ -101,5 +101,4 @@ Interested in solving **real-world problems using data-driven approaches** while
 
 <div align="center">
 💡 Chasing knowledge like it’s the ultimate adventure!
-</div> -->
-
+</div>
