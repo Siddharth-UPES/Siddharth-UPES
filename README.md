@@ -57,18 +57,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Siddharth-UPES&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%" />
-
-</div>
-
-
----
 ---
 ## 📊 GitHub Activity
 
@@ -77,15 +66,7 @@
 <img src="https://streak-stats.demolab.com?user=Siddharth-UPES&theme=tokyonight&hide_border=true&mode=weekly" width="50%" />
 
 </div>
----
----
-## 📊 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth-UPES&theme=tokyo-night&hide_border=true" />
-
-</div>
 ---
 
 ## 🌐 Connect With Me
