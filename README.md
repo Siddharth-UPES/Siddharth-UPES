@@ -96,7 +96,6 @@
 
 
 
-
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
 </div>
@@ -104,7 +103,7 @@
 <h1 align="center">Hey 👋, I'm Siddharth Kumar</h1>
 
 <p align="center">
-🚀 Java Full Stack Developer | 🤖 AI/ML Learner | 💡 Problem Solver
+🚀 Java Full Stack Developer | 🤖 AI/ML Enthusiast | 💡 Problem Solver
 </p>
 
 ---
@@ -112,55 +111,54 @@
 ## 🧠 About Me
 
 - 🎓 MCA (AI) student at **UPES, Dehradun**
-- 🔥 Passionate about **challenging problems & real-world systems**
+- 🔥 Passionate about **challenging problems & real-world solutions**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- ⚡ Focused on building **scalable and intelligent applications**
-- 🎯 Goal: Become a **Full Stack + AI Engineer**
+- 💻 Building **scalable full-stack applications**
+- ⚡ Strong focus on **DSA, system design & clean code**
 
 ---
 
-## 🚀 What I'm Doing
+## 🚀 Current Focus
 
-- 💻 Building **Full Stack Applications (Java + Node.js)**
-- 📊 Learning **Machine Learning & Deep Learning**
-- 🧠 Improving **DSA & Core CS Concepts**
-- 🤝 Open to **collaborations & internships**
+- 🔹 Java Full Stack Development  
+- 🔹 Machine Learning & Deep Learning  
+- 🔹 Building impactful real-world projects  
+- 🔹 Open to internships & collaboration  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
+</p>
 
-### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+</p>
 
-### 🌐 Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+### 🤖 AI / Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### 🤖 AI / ML  
-<img src="https://skillicons.dev/icons?i=python" />
-<br/>
-`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`
-
-### ⚙️ Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-
-</div>
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn`  
+`Machine Learning` `Deep Learning (Basics)`
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Siddharth-UPES&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Siddharth-UPES&theme=tokyonight&hide_border=true" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-UPES&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Siddharth-UPES&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -168,43 +166,41 @@
 ## 📈 Top Languages
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-UPES&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-UPES&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddharthkumar26/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sidchaudhary2508@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+---
+
+## 🧪 Research Work
+
+📄 **"Elevating Large Language Model Comprehensibility with SHAP Values" (Under Review, 2025)**  
+
+- Improved ML interpretability using **XGBoost + SHAP**  
+- Converted outputs into **human-readable explanations**  
+- Focused on **trust & transparency in AI systems**
+
+---
+
+## ⚡ Professional Summary
+
+Motivated MCA student with a strong foundation in **software development, Java Full Stack, and AI/ML**. Focused on building scalable applications and intelligent systems while continuously improving problem-solving and development skills.
+
+---
+
 <div align="center">
-
-<a href="https://www.linkedin.com/in/siddharthkumar26/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:sidchaudhary2508@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-</div>
-
----
-
-## 🧾 Professional Summary
-
-Motivated MCA student with a strong foundation in **Software Development, Java Full Stack, and AI/ML**.  
-Experienced in building **scalable web applications and intelligent systems**.  
-Interested in solving **real-world problems using data-driven approaches** while continuously improving technical depth.
-
----
-
-## ⚡ Mindset
-
-> *"Impossible is just a word — until you prove it wrong."*
-
----
-
-<div align="center">
-💡 Always building. Always learning.
+💡 *Always building. Always learning.*
 </div>
