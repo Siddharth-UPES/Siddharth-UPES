@@ -94,17 +94,7 @@
 
 
 
-<div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" />
-
-<h1>Hey 👋, I'm Siddharth Kumar</h1>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;AI%2FML+Learner;Problem+Solver;Always+Building+Something+New" />
-</p>
-
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
