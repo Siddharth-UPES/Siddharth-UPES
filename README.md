@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
 </div>
 
-<h1 align="center">Hey 👋, I'm Siddharth Kumar</h1>
+<h1 align="center">Hey , I'm Siddharth Kumar</h1>
 
 <p align="center">
 🚀 Java Full Stack Developer | 🤖 AI/ML Learner | 💡 Problem Solver
